@@ -77,8 +77,8 @@ body {
 }
 
 .img {
-    width: 277px;
-    height: 60px;
+    width: 177px;
+    height: 38px;
 }
 
 .header__nav-list {
@@ -354,6 +354,11 @@ margin-top: -152px;
     text-decoration: none;
     color:#252420;
     line-height: 18,75px;
+    font-weight: 500px;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+    font-family: 'Roboto', Arial,  sans-serif;
     
 }
 
